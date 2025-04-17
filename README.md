@@ -1,4 +1,4 @@
-# Rockchip-RK3568-Yocto
+# rockchip-yocto-linux
 
 ## Quick Start
 ### I. Configure yocto/oe Environment
