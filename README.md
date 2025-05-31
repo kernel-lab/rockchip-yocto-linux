@@ -1,4 +1,4 @@
-# rockchip-yocto-linux
+# yocto-linux-rockchip
 
 ## Quick Start
 ### I. Configure yocto/oe Environment
