@@ -3,6 +3,9 @@ From: Jeffy Chen <jeffy.chen@rock-chips.com>
 Date: Tue, 25 Feb 2025 09:11:02 +0800
 Subject: [PATCH] HACK: egl: Prefer using libmali.so.1's Wayland-EGL APIs
 
+Upstream-Status: Inappropriate [For rockchip yocto linux]
+Signed-off-by: bruce.sui <2054131414@qq.com>
+
 The Mali DDK may provide its own version.
 
 Signed-off-by: Jeffy Chen <jeffy.chen@rock-chips.com>
